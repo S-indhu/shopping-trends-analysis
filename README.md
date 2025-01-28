@@ -13,22 +13,22 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Tools: Jupyter Notebook, Google Colab
 Installation & Setup
 Clone the repository:
-sh
+
 Copy
 Edit
 git clone https://github.com/yourusername/shopping-trends-analysis.git
 Navigate to the project directory:
-sh
+
 Copy
 Edit
 cd shopping-trends-analysis
 Install dependencies:
-sh
+
 Copy
 Edit
 pip install -r requirements.txt
 Run the project:
-sh
+
 Copy
 Edit
 python analysis.py
